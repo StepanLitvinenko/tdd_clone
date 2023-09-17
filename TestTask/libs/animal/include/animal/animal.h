@@ -5,7 +5,7 @@
 class Animal{
 public:
     virtual void say() = 0;
-    ~Animal() = default;
+    virtual ~Animal() = default;
 };
 
 
