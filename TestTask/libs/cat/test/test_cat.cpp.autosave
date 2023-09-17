@@ -54,8 +54,6 @@ TEST(Cat_test, SayChecking) {
 
 
 
-
-
 TEST(Cat_test, AnimalSayChecking) {
 
     const std::string etalonMeow = "Meow!";
